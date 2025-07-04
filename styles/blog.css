@@ -2,7 +2,14 @@ p{
     background-color: antiquewhite;
     color:black;
     font-family: cursive;
+    padding: 10px;
 }
 h1{
     font-family: cursive;
+    background-color: aliceblue;
+    margin-right: 70%;
+}
+.harum{
+    text-decoration: underline;
+    color:red;
 }
